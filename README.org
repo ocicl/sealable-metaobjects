@@ -1,0 +1,10 @@
+* sealable-metaobjects
+
+A CLOSsy way to trade genericity for performance.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marcoheisig/sealable-metaobjects.git   |
+| commit  | e09ec97  |
+| systems | sealable-metaobjects |
+|---------+-------------------------------------------|
+
