@@ -8,3 +8,4 @@ A CLOSsy way to trade genericity for performance.
 | systems | sealable-metaobjects |
 |---------+-------------------------------------------|
 
+ 
